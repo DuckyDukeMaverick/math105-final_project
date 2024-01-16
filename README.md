@@ -15,12 +15,14 @@ We then carried out series of hypothesis testing methods (one-sample & two-sampl
 <img src = "MATH105-Illustration\factors.png" width = 80% height = 80%>
 </p>
 
- We found that use of Internet and line phone, along with inequality are the three statistically significant factors influencing democratization.
+We found that use of Internet and line phone, along with inequality are the three statistically significant factors influencing democratization.
 
- ### Brief Documentation:
- <ul>
-<li> [Data Concat (Final)](Data Concat (Final).ipynb): my code for wrangling data from GapMinder
-<li> 
+### Brief Documentation:
+<ul>
+<li> intro_data_poster.png: the team's poster
+<li> Data Concat (Final).ipynb: all the code for data wrangling
+<li> Data/Data Concatenation Information.pdf: description of my data wrangling process
+<li> Final_Synthetic_Code.ipynb: all the codes of our analysis
 </ul>
 
 
